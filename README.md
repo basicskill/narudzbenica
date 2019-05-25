@@ -1,4 +1,4 @@
 # Broj bureka
-> 2 kruga (8 četvrtina)
+- [x] 2 kruga (8 četvrtina)
 # Broj sirnica
-> pola kruga (2 četvrtine)
+- [x] pola kruga (2 četvrtine)
