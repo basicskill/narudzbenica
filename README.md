@@ -3,17 +3,17 @@
 ## Leba
 - [ ] preceni (pogaca)
 
-##Kajmak
+## Kajmak
 - [ ] CHECK(Exists)
 
 ## Cvarci
 - [ ] 2 kg
 - [ ] check with old man uphill
 
-## Ne vinjaja
+## Ne Vinjaja
 - [ ] 1
 
-## Ne viskaja
+## Ne Viskaja
 - [ ] by Stefani
 
 ## Misc
