@@ -1,20 +1,6 @@
-# Current version
+## Lista za nedelju gospodnju 03.11.
+[ ] ne Vinjaka 2 kilograma
+[ ] uzeti lako štivo za na ledja posle (količina odokativna)
 
-## Leba
-- [x] Proceni (pogača)
-
-## Kajmak
-- [x] CHECK (Exists)
-
-## Ćvarci
-- [x] 2 kg
-- [x] Check with old man uphill
-
-## Ne Vinjaja
-- [x] 1 komat
-
-## Ne Viskaja
-- [x] by Stefani
-
-## Misc
-- [ ] Odoka
+## Opciono
+[ ] čvarci, dekustativna kilaža
