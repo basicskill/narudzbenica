@@ -1,6 +1,8 @@
-## Lista za nedelju gospodnju 03.11.
-[ ] ne Vinjaka 2 kilograma
-[ ] uzeti lako štivo za na ledja posle (količina odokativna)
+# Lista za nedelju gospodnju 03.11.
+
+## Obavezno
+- [ ] ne Vinjaka 2 kilograma
+- [ ] uzeti lako štivo za na ledja posle (količina odokativna)
 
 ## Opciono
-[ ] čvarci, dekustativna kilaža
+- [ ] čvarci, dekustativna kilaža
