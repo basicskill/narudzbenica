@@ -1,20 +1,20 @@
 # Current version
 
 ## Leba
-- [ ] Proceni (pogača)
+- [x] Proceni (pogača)
 
 ## Kajmak
-- [ ] CHECK (Exists)
+- [x] CHECK (Exists)
 
 ## Ćvarci
-- [ ] 2 kg
-- [ ] Check with old man uphill
+- [x] 2 kg
+- [x] Check with old man uphill
 
 ## Ne Vinjaja
-- [ ] 1 komat
+- [x] 1 komat
 
 ## Ne Viskaja
-- [ ] by Stefani
+- [x] by Stefani
 
 ## Misc
 - [ ] Odoka
